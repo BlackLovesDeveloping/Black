@@ -1,6 +1,6 @@
-### Hi, mate 👋
+### Hola, bienvenido a mi Github 👋
 
-<h2 align="center">About me</h2>
+<h2 align="center">Acerca de mí.</h2>
 
 =>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=
 - 💎 JavaScript & LUA Developer
