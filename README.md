@@ -18,10 +18,4 @@
 <h2 align="center">Investiga acerca de mí si te apetece.</h2>
 <p> </p>
 | 🟡 Steam: https://steamcommunity.com/id/blacksitojeje/
-
-<h2 align="center">Perfíl de Discord</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/fVz24mKA5P">
-        <img title="Discord RevolucionRP" alt="RevolucionRP Discord" src="https://discord.c99.nl/widget/theme-1/1089497679702261790.png"/>
-    </a>
 </p>
